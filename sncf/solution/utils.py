@@ -4,6 +4,9 @@ import csv
 import os
 from sklearn.model_selection import train_test_split
 
+__author__ = "Pierre Jaumier"
+__version__ = "Data IA, LSdO, février 2023"
+
 
 def get_data(relative_path='../data/'):
     x_train = pd.read_csv(os.path.join(relative_path, 'x_train.csv'))

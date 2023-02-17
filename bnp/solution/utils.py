@@ -3,6 +3,9 @@ import numpy as np
 import csv
 import os
 
+__author__ = "Pierre Jaumier"
+__version__ = "Data IA, LSdO, février 2023"
+
 
 def define_column_data_type(prefix, data_type, column_count, column_type):
     """Fonction d'aide pour la création des associations des colonnes à leurs types

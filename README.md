@@ -1,4 +1,4 @@
-# Challenges data kickstarter
+# Challenges kickstarter
 
 [challenge data ens 2023](https://challengedata.ens.fr/participants/challenges/year/2023)
 
